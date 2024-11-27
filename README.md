@@ -1,6 +1,6 @@
 # About me
-Front-end developer
-Loves science and coding
+- Front-end developer
+- Loves science and coding
 
 ## **Languages, tools, and other software I use:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,vscode,&perline=13)](#)
