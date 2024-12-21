@@ -6,8 +6,9 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,github,vscode,&perline=13)](#)
 
 ## Socials
+![My Discord](https://discord-readme-badge.vercel.app/api?id=<1149104293966782474>)
 
-<a href="https://discordapp.com/users/">![alt](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a> <a href="https://youtube.com/@ZixiaC61">![alt](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
+<a href="https://discordapp.com/users/1149104293966782474">![alt](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)</a> <a href="https://youtube.com/@ZixiaC61">![alt](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)</a>
 
 ## Github Stats 
 
